@@ -1,0 +1,13 @@
+C:\Users\heami\VB\source\ex06\bin\Debug\ex06.exe.config
+C:\Users\heami\VB\source\ex06\bin\Debug\ex06.exe
+C:\Users\heami\VB\source\ex06\bin\Debug\ex06.pdb
+C:\Users\heami\VB\source\ex06\bin\Debug\ex06.xml
+C:\Users\heami\VB\source\ex06\obj\Debug\ex06.vbproj.AssemblyReference.cache
+C:\Users\heami\VB\source\ex06\obj\Debug\ex06.Form1.resources
+C:\Users\heami\VB\source\ex06\obj\Debug\ex06.Resources.resources
+C:\Users\heami\VB\source\ex06\obj\Debug\ex06.vbproj.GenerateResource.cache
+C:\Users\heami\VB\source\ex06\obj\Debug\ex06.vbproj.CoreCompileInputs.cache
+C:\Users\heami\VB\source\ex06\obj\Debug\ex06.exe
+C:\Users\heami\VB\source\ex06\obj\Debug\ex06.xml
+C:\Users\heami\VB\source\ex06\obj\Debug\ex06.pdb
+C:\Users\heami\VB\source\ex06\obj\Debug\ex06.Form2.resources
