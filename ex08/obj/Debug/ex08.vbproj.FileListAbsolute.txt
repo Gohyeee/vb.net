@@ -1,0 +1,13 @@
+C:\Users\heami\VB\source\ex08\bin\Debug\ex08.exe.config
+C:\Users\heami\VB\source\ex08\bin\Debug\ex08.exe
+C:\Users\heami\VB\source\ex08\bin\Debug\ex08.pdb
+C:\Users\heami\VB\source\ex08\bin\Debug\ex08.xml
+C:\Users\heami\VB\source\ex08\obj\Debug\ex08.vbproj.AssemblyReference.cache
+C:\Users\heami\VB\source\ex08\obj\Debug\ex08.Form1.resources
+C:\Users\heami\VB\source\ex08\obj\Debug\ex08.Resources.resources
+C:\Users\heami\VB\source\ex08\obj\Debug\ex08.vbproj.GenerateResource.cache
+C:\Users\heami\VB\source\ex08\obj\Debug\ex08.vbproj.CoreCompileInputs.cache
+C:\Users\heami\VB\source\ex08\obj\Debug\ex08.exe
+C:\Users\heami\VB\source\ex08\obj\Debug\ex08.xml
+C:\Users\heami\VB\source\ex08\obj\Debug\ex08.pdb
+C:\Users\heami\VB\source\ex08\obj\Debug\ex08.Form2.resources
