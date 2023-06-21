@@ -1,0 +1,11 @@
+C:\Users\heami\source\repos\ex09-1\bin\Debug\ex09-1.exe.config
+C:\Users\heami\source\repos\ex09-1\bin\Debug\ex09-1.exe
+C:\Users\heami\source\repos\ex09-1\bin\Debug\ex09-1.pdb
+C:\Users\heami\source\repos\ex09-1\bin\Debug\ex09-1.xml
+C:\Users\heami\source\repos\ex09-1\obj\Debug\ex09_1.Form1.resources
+C:\Users\heami\source\repos\ex09-1\obj\Debug\ex09_1.Resources.resources
+C:\Users\heami\source\repos\ex09-1\obj\Debug\ex09-1.vbproj.GenerateResource.cache
+C:\Users\heami\source\repos\ex09-1\obj\Debug\ex09-1.vbproj.CoreCompileInputs.cache
+C:\Users\heami\source\repos\ex09-1\obj\Debug\ex09-1.exe
+C:\Users\heami\source\repos\ex09-1\obj\Debug\ex09-1.xml
+C:\Users\heami\source\repos\ex09-1\obj\Debug\ex09-1.pdb
